@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anas Hanif Attas and I'm a Frontend Developer, from Islamabad, Pakistan. I'm love to build the most innovative frontends, and work on performance and security on the frontend. I'm working at @graana as a frontend developer</h2>
+<h2 align="left">Hi 👋! My name is Anas Hanif Attas and I'm a Full Stack Engineer, from Islamabad, Pakistan. I'm love to build the most innovative frontends, and work on performance and security on the frontend. I'm working at @vyro as a full-stack developer</h2>
 
 ###
 
